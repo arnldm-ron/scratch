@@ -1,6 +1,6 @@
 ## <SCRATCH>
 
-<p> One line: To have fun.</p>p>
+<p> One line: To have fun.</p>
 
 ### How to Use It
 
