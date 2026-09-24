@@ -1,4 +1,4 @@
-## <SCRATCH>
+## SCRATCH
 
 <p> One line: To have fun.</p>
 
